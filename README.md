@@ -1,6 +1,3 @@
-## APIS FOR CHAT APP
-
-
 ## HOW TO INSTALL
 
 **Step to install**
